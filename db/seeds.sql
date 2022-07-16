@@ -24,15 +24,15 @@ VALUES ("Legal Team Lead", 250000, 4);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Jane", "Doe", 1, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Norah", "Rios", 2, 1);
+VALUES ("Zara", "Thomas", 2, 1);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Kate", "Mellor", 3, null);
+VALUES ("Keisha", "Johnson", 3, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Shiv", "Betts", 4, 3);
+VALUES ("Asma", "Ahmed", 4, 3);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Leen", "Hurst", 5, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Gary", "Leer", 2, null);
+VALUES ("Sam", "Lee", 2, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Tom", "Cruise", 4, 7);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
